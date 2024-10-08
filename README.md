@@ -1,7 +1,4 @@
 # Intro
-First project
-This repository will consist of my First Java GitHub project for practice purposes
-Searching and Sorting
-Generic Methods and classes
-Data structures
-etc
+I am a Computer engineering student
+I am interesting in Business and Data analysis
+Java and python are the two programming languages that I will be perfecting
